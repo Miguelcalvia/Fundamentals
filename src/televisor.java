@@ -55,4 +55,6 @@ public abstract class televisor {
 
     }
 
+    public void hola(boolean hola1){}
+
 }
