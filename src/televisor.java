@@ -51,6 +51,10 @@ public abstract class televisor {
         this.Decodificador = Decodificador;
     }
 
+    public void itsNew(boolean someWord) {
+
+    }
+
     public void hola(boolean hola1){}
 
 }
